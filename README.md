@@ -14,36 +14,21 @@
 
 ---
 
-<img align="right" width="75%" src="https://raw.githubusercontent.com/block-foundation/brand/master/src/image/repository_cover/block_foundation-structure-03-accent.jpg"  alt="Stylescape Brand">
-
-### Contents
-
-- [Introduction](#introduction)
-- [Colophon](#colophon)
-
-<br clear="both"/>
-
----
-
 <div align="right">
 
-[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=bug_report.yml)
-[![Request a Feature](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=feature_request.yml)
-[![Ask a Question](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=question.yml)
-[![Make a Suggestion](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=suggestion.yml)
-[![Start a Discussion](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/block-foundation/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=discussion.yml)
+[![Report a Bug](https://img.shields.io/badge/Report%20a%20Bug-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/stylescape/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=bug_report.yml)
+[![Request a Feature](https://img.shields.io/badge/Request%20a%20Feature-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/stylescape/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=feature_request.yml)
+[![Ask a Question](https://img.shields.io/badge/Ask%20a%20Question-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/stylescape/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=question.yml)
+[![Make a Suggestion](https://img.shields.io/badge/Make%20a%20Suggestion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/stylescape/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=suggestion.yml)
+[![Start a Discussion](https://img.shields.io/badge/Start%20a%20Discussion-GitHub?style=flat-square&&logoColor=%23FFFFFF&color=%23E1E4E5)](https://github.com/stylescape/community/issues/new?assignees=&labels=Needs%3A+Triage+%3Amag%3A%2Ctype%3Abug-suspected&projects=&template=discussion.yml)
 
 </div>
 
-**A warm welcome to you as you join the Stylescape Community!**
-
-## Introduction
+**Welcome to the Stylescape Community!**
 
 You're stepping into an energetic, collaborative environment where your contributions will play a crucial role in shaping our future. This is where your journey as a community contributor commences, paving the path for the enhancement of our codebase, refining our documentation, and delivering influential talks that resonate with our mission and vision.
 
-Your expertise, perspectives, and innovative ideas are invaluable to us. Whether you're delving into our software architecture, curating insightful content for our documentation, or captivating audiences with enlightening presentations, your input will help foster our collective growth and the advancement of our foundation's objectives.
 
-Join us as we collaborate to unshackle traditional constraints and redefine architectural possibilities with the transformative power of blockchain technology. Let's navigate this exciting path together, and make your mark on the Stylescape Community.
 
 ## Community Guidelines
 
@@ -77,56 +62,38 @@ As you have made it this far, we are profoundly grateful for your interest in co
 
 ---
 
-## Colophon
+## Repository Overview
 
-### Authors
+### Graphic Languages
 
-This is an open-source project by the **[Stylescape](https://www.blockfoundation.io "Stylescape website")**.
+Stylescape is built on the following modules:
 
-The Stylescape mission is enabling architects to take back initiative and contribute in solving the mismatch in housing through blockchain technology. Therefore the Stylescape seeks to unschackle the traditional constraints and construct middle ground between rent and the rigidity of traditional mortgages.
+- **[unit.gl](https://github.com/stylescape/unit.gl)** is a _Dynamic Layout Engine_ focused on fluid typography and responsive design.
+- **[hue.gl](https://github.com/stylescape/hue.gl)** is a _Perceptual Color System_ and color management toolkit.
+- **[icon.gl](https://github.com/stylescape/icon.gl)** is a _Modular Icon Library_ with various integration options.
+- **[font.gl](https://github.com/stylescape/font.gl)** is a _Variable Font Collection_ curated as an all-round base for typography.
+- **[move.gl](https://github.com/stylescape/move.gl)** is a _User eXperience Toolkit_ created for interactives and immersives.
+- **[page.gl](https://github.com/stylescape/page.gl)** is a _Page Layout Library_ created for rapid prototyping.
+- **[pack.gl](https://github.com/stylescape/pack.gl)** is a _Package Pipeline Manager_ that streamlines streamlines bundling assets and code for deployment.
 
-website: [www.blockfoundation.io](https://www.blockfoundation.io "Stylescape website")
+### Resources
 
-### Development Resources
+- **[Brand](https://github.com/stylescape/brand)** - Brand guidelines and assets.
+- **[Community](https://github.com/stylescape/community)** - Engage with the Stylescape community.
+- **[devContainer](https://github.com/stylescape/stylescape-devcontainer)** - Development container setup for Stylescape.
+- **[Theme Template](https://github.com/stylescape/stylescape-theme)** - Theme template for Stylescape projects.
 
-#### Contributing
+### Examples
 
-We'd love for you to contribute and to make this project even better than it is today!
-Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
+- **[npm](https://github.com/stylescape/example-npm)** - Stylescape Sass and JS with npm.
+- **[Parcel](https://github.com/stylescape/example-parcel)** - Stylescape Sass and JS with Parcel.
+- **[React](https://github.com/stylescape/example-react)** - Stylescape Sass and JS with React and Next.js.
+- **[Svelte](https://github.com/stylescape/example-svelte)** - Stylescape Sass and JS with Svelte.
+- **[Vite](https://github.com/stylescape/example-vite)** - Stylescape Sass and JS with Vite.
+- **[Vue](https://github.com/stylescape/example-vue)** - Stylescape Sass and JS with Vue + Vite.
+- **[Webpack](https://github.com/stylescape/example-webpack)** - Bundle Stylescape Sass and JS with Webpack.
 
-### Legal Information
-
-#### Copyright
-
-Copyright &copy; 2023 [Stichting Stylescape](https://www.blockfoundation.io/ "Stylescape website"). All Rights Reserved.
-
-#### License
-
-Except as otherwise noted, the content in this repository is licensed under the
-[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
-code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
-
-Also see [LICENSE](https://github.com/block-foundation/community/blob/master/src/LICENSE) and [LICENSE-CODE](https://github.com/block-foundation/community/blob/master/src/LICENSE-CODE).
-
-#### Disclaimer
-
-**THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
-
-
-
-
-
-
-# scss-style-guide
-
-<https://github.com/Famolus/awesome-sass>
-
-## Style Guides
-
-- [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
-- [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - Guidelines in use at BigCommerce.
-- [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
-- [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
+---
 
 ## Syntax
 
@@ -148,5 +115,53 @@ Superseding Conventions:
 | `JavaScript`        | [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) |
 | `JavaScript`        | [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html) |
 | `Python`            | [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html) |
-| `Solidity`          | [Solidity Style Guide](https://docs.soliditylang.org/en/latest/style-guide.html)
 | `TypeScript`        | [Google TypeScript Style Guide](https://google.github.io/styleguide/tsguide.html) |
+
+#### Other
+
+- [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
+- [BigCommerce Sass Coding Guidelines](https://github.com/bigcommerce/sass-style-guide) - Guidelines in use at BigCommerce.
+- [Airbnb Sass and CSS Style Guide](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
+- [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
+- <https://github.com/Famolus/awesome-sass>
+
+---
+
+## Colophon
+
+### Authors
+
+This is an open-source project by the **[Stylescape](https://www.blockfoundation.io "Stylescape website")**.
+
+The Stylescape mission is enabling architects to take back initiative and contribute in solving the mismatch in housing through blockchain technology. Therefore the Stylescape seeks to unschackle the traditional constraints and construct middle ground between rent and the rigidity of traditional mortgages.
+
+website: [www.blockfoundation.io](https://www.blockfoundation.io "Stylescape website")
+
+### Development Resources
+
+#### Contributing
+
+We'd love for you to contribute and to make this project even better than it is today!
+Please refer to the [contribution guidelines](.github/CONTRIBUTING.md) for information.
+
+#### Copyright
+
+Copyright &copy; 2023 [Stichting Stylescape](https://www.blockfoundation.io/ "Stylescape website"). All Rights Reserved.
+
+#### License
+
+Except as otherwise noted, the content in this repository is licensed under the
+[Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by/4.0/), and
+code samples are licensed under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0).
+
+Also see [LICENSE](https://github.com/stylescape/community/blob/master/src/LICENSE) and [LICENSE-CODE](https://github.com/stylescape/community/blob/master/src/LICENSE-CODE).
+
+#### Disclaimer
+
+**THIS SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+---
+
+<p align="center">
+    <b>Made with ❤️ by <a href="https://www.scape.agency" target="_blank">Scape Agency</a></b>
+</p>
